@@ -7,3 +7,4 @@ It will normally contain things like:
 - how to set up the project on your local computer 
 - any other relevant information that you want to be on the front page of your repo
 - This is a change from the local machine
+- This is another change from the local machine
